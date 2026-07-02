@@ -14,7 +14,7 @@ use Illuminate\Support\Str;
 class UpsertArticle
 {
     /**
-     * @param  array{title: string, content: string, status: string|ArticleStatus}  $attributes
+     * @param  array{title: string, content: string, status: string|ArticleStatus, slug?: string}  $attributes
      */
     public function handle(array $attributes, User $author, ?Article $article = null): Article
     {
@@ -26,6 +26,7 @@ class UpsertArticle
 
         $title = trim($attributes['title']);
         $content = $this->sanitizeHtml($attributes['content']);
+        $explicitSlug = isset($attributes['slug']) ? trim($attributes['slug']) : null;
 
         $article->fill([
             'title' => $title,
@@ -37,7 +38,9 @@ class UpsertArticle
             $article->author()->associate($author);
         }
 
-        if (! $article->exists || $article->isDirty('title')) {
+        if ($explicitSlug !== null && $explicitSlug !== '') {
+            $article->slug = $this->uniqueSlug($explicitSlug, $article);
+        } elseif (! $article->exists || $article->isDirty('title')) {
             $article->slug = $this->uniqueSlug($title, $article);
         }
 
@@ -52,7 +55,7 @@ class UpsertArticle
 
     private function uniqueSlug(string $title, Article $article): string
     {
-        $baseSlug = Str::slug($title);
+        $baseSlug = Str::slug($title, '-', app()->getLocale());
         $slug = $baseSlug !== '' ? $baseSlug : 'article';
         $suffix = 2;
 
@@ -79,9 +82,14 @@ class UpsertArticle
 
         $document = new DOMDocument('1.0', 'UTF-8');
         $internalErrors = libxml_use_internal_errors(true);
+        $encodedHtml = mb_encode_numericentity(
+            $html,
+            [0x80, 0x10FFFF, 0, 0xFFFF],
+            'UTF-8'
+        );
 
         $document->loadHTML(
-            '<!DOCTYPE html><html><body>'.$html.'</body></html>',
+            '<!DOCTYPE html><html><body>'.$encodedHtml.'</body></html>',
             LIBXML_HTML_NOIMPLIED | LIBXML_HTML_NODEFDTD
         );
 

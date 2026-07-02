@@ -1,133 +1,166 @@
 [
     {
+        "slug": "persona-3-reload",
         "title": "Persona 3 Reload",
         "content": "<article><h2>Un JRPG nocturne entre mélancolie et style</h2><p>Persona 3 Reload modernise un épisode déjà culte sans en trahir l'ambiance. Le jeu conserve son mélange unique entre vie lycéenne, exploration surnaturelle et combats au tour par tour, tout en rendant l'ensemble bien plus confortable à parcourir.</p><p>La grande force du titre reste son atmosphère. La nuit, Tartarus impose une progression étrange, presque rituelle. Le jour, les liens sociaux donnent du poids aux personnages et rendent chaque semaine importante. On ne joue pas seulement pour gagner des niveaux, on joue aussi pour comprendre ce groupe qui avance avec ses failles.</p><p>Le système de combat gagne en lisibilité et en dynamisme. Les faiblesses élémentaires, les relais d'actions et la gestion des Personas créent un rythme très efficace. Quelques longueurs subsistent dans l'exploration, mais l'habillage sonore et visuel compense largement.</p><p><strong>Verdict :</strong> une excellente porte d'entrée pour découvrir Persona 3, plus fluide, plus beau, mais toujours profondément mélancolique.</p></article>"
     },
     {
+        "slug": "persona-4-golden",
         "title": "Persona 4 Golden",
         "content": "<article><h2>Le charme d'une enquête surnaturelle en petite ville</h2><p>Persona 4 Golden repose sur une idée simple mais redoutable : transformer une petite ville rurale en théâtre d'un mystère étrange, intime et parfois très drôle. Là où d'autres JRPG cherchent l'ampleur épique, celui-ci mise sur la proximité avec ses personnages.</p><p>Inaba devient rapidement un lieu familier. On connaît les boutiques, les camarades de classe, les habitudes de chacun. Cette routine rend les événements fantastiques encore plus marquants, car ils semblent contaminer un quotidien presque paisible.</p><p>Les donjons ne sont pas toujours les plus inspirés du genre, mais ils servent efficacement la psychologie des personnages. Chaque exploration devient une manière d'affronter ce qui est caché, nié ou refoulé. Le combat reste solide, accessible et suffisamment stratégique pour maintenir l'intérêt.</p><p><strong>Verdict :</strong> un JRPG chaleureux, drôle et touchant, porté par une bande de personnages mémorable.</p></article>"
     },
     {
+        "slug": "persona-5-royal",
         "title": "Persona 5 Royal",
         "content": "<article><h2>Le braquage stylisé du JRPG moderne</h2><p>Persona 5 Royal est un jeu qui déborde de personnalité. Menus animés, musiques acid jazz, combats rapides, donjons scénarisés : tout semble pensé pour donner de l'énergie à chaque action, même la plus banale.</p><p>Le thème de la rébellion fonctionne particulièrement bien. Les Voleurs Fantômes ne se contentent pas de sauver le monde, ils s'attaquent à des abus très concrets. Cette dimension sociale donne du relief à l'aventure, même quand le scénario devient plus spectaculaire.</p><p>Royal améliore le rythme, enrichit les confidants et ajoute une partie finale plus nuancée. Le jeu reste très long, parfois trop bavard, mais il sait presque toujours récompenser l'investissement du joueur.</p><p><strong>Verdict :</strong> un JRPG généreux, élégant et accrocheur, probablement l'un des meilleurs points d'entrée dans le genre.</p></article>"
     },
     {
+        "slug": "final-fantasy-vi",
         "title": "Final Fantasy VI",
         "content": "<article><h2>Une fresque 16-bit d'une ambition folle</h2><p>Final Fantasy VI impressionne encore par l'ampleur de son casting et la maturité de ses thèmes. Derrière ses sprites Super Nintendo, le jeu raconte une histoire de perte, de résistance et de reconstruction avec une efficacité rare.</p><p>Le rythme est remarquable. Chaque personnage a son moment, son drame, sa musique, son identité en combat. Le jeu évite de tout centrer sur un seul héros et donne l'impression d'une véritable troupe embarquée dans une catastrophe mondiale.</p><p>Le système de magie et d'Espers permet de personnaliser les personnages sans effacer totalement leurs particularités. Certains passages ont vieilli, notamment dans l'équilibrage, mais l'aventure conserve une puissance émotionnelle intacte.</p><p><strong>Verdict :</strong> un monument du JRPG, toujours capable de surprendre par son audace narrative.</p></article>"
     },
     {
+        "slug": "final-fantasy-vii",
         "title": "Final Fantasy VII",
         "content": "<article><h2>Le choc cinématographique de la PlayStation</h2><p>Final Fantasy VII reste un jeu historique, non seulement pour son passage à la 3D, mais aussi pour sa manière de mélanger science-fiction industrielle, écologie, trauma personnel et grand spectacle.</p><p>Midgar constitue encore l'une des meilleures introductions du genre. La ville est sale, verticale, oppressante, et donne immédiatement un visage concret à la menace de la Shinra. Quand le monde s'ouvre ensuite, l'aventure prend une dimension plus classique mais conserve ses ruptures de ton.</p><p>Le système de matérias reste l'un des plus élégants de la série. Simple à comprendre, riche à optimiser, il donne envie d'expérimenter sans noyer le joueur. Visuellement, certains modèles ont beaucoup vieilli, mais la direction artistique et les musiques portent encore l'expérience.</p><p><strong>Verdict :</strong> un classique imparfait mais essentiel, dont l'influence reste immense.</p></article>"
     },
     {
+        "slug": "final-fantasy-viii",
         "title": "Final Fantasy VIII",
         "content": "<article><h2>Un épisode étrange, romantique et fascinant</h2><p>Final Fantasy VIII divise, et c'est précisément ce qui le rend intéressant. Son ambiance mêle romance adolescente, militarisation des écoles, voyages temporels et esthétique pop très marquée. Le résultat est parfois bancal, mais rarement banal.</p><p>Le système d'associations avec les G-Forces demande un vrai temps d'adaptation. Il peut casser l'équilibrage si on le comprend trop vite, ou frustrer si on le subit. Pourtant, il donne au jeu une identité mécanique très forte.</p><p>L'aventure brille surtout par ses moments iconiques : le bal, les missions SeeD, les rêves de Laguna, les grandes cinématiques. Le récit manque parfois de clarté, mais son atmosphère reste unique dans la série.</p><p><strong>Verdict :</strong> un Final Fantasy imparfait, audacieux et attachant, qui gagne à être rejoué avec bienveillance.</p></article>"
     },
     {
+        "slug": "final-fantasy-ix",
         "title": "Final Fantasy IX",
         "content": "<article><h2>La lettre d'amour au Final Fantasy classique</h2><p>Final Fantasy IX revient à une fantasy plus traditionnelle tout en proposant l'un des récits les plus tendres et mélancoliques de la saga. Sous ses airs de conte coloré, le jeu parle d'identité, de mortalité et de transmission.</p><p>Le casting fonctionne merveilleusement. Zidane apporte de la légèreté, Vivi une profondeur bouleversante, Steiner un comique rigide qui évolue peu à peu. Chaque personnage semble appartenir à un théâtre vivant et généreux.</p><p>Le système de compétences liées à l'équipement encourage l'exploration et donne un rythme clair à la progression. Les combats peuvent paraître lents aujourd'hui, mais le charme visuel et musical reste considérable.</p><p><strong>Verdict :</strong> un épisode chaleureux, élégant et profondément humain.</p></article>"
     },
     {
+        "slug": "final-fantasy-x",
         "title": "Final Fantasy X",
         "content": "<article><h2>Un pèlerinage linéaire mais inoubliable</h2><p>Final Fantasy X assume une structure très guidée, presque processionnelle. Ce choix sert son propos : le voyage de Yuna et de ses gardiens ressemble à un rituel auquel chacun participe en connaissant le prix à payer.</p><p>Le système de combat au tour par tour conditionnel reste excellent. Changer de personnage à la volée, exploiter les faiblesses ennemies et anticiper l'ordre d'action rend les affrontements très lisibles et satisfaisants.</p><p>Le jeu marque aussi par son univers. Spira est traversé par la religion, le deuil et la peur permanente de Sin. Certaines scènes ont vieilli dans leur mise en scène, mais l'émotion générale fonctionne encore.</p><p><strong>Verdict :</strong> un JRPG accessible, dramatique et très maîtrisé dans sa progression.</p></article>"
     },
     {
+        "slug": "final-fantasy-tactics",
         "title": "Final Fantasy Tactics",
         "content": "<article><h2>Le tactical RPG politique et brutal</h2><p>Final Fantasy Tactics troque l'aventure héroïque traditionnelle contre une guerre de succession complexe, pleine de trahisons, de manipulations et de luttes de classes. Le ton est dur, presque historique, et donne au jeu une densité rare.</p><p>Le système de jobs est le cœur de l'expérience. Composer son escouade, combiner des compétences et adapter son placement transforme chaque bataille en petit problème tactique. Certaines missions peuvent être très punitives, surtout sans sauvegarde prudente.</p><p>L'écriture demande de l'attention, mais elle récompense largement l'effort. Ramza n'est pas un héros flamboyant : c'est un personnage qui tente de rester droit dans un monde qui ne l'est pas.</p><p><strong>Verdict :</strong> un chef-d'œuvre exigeant du tactical RPG, encore passionnant aujourd'hui.</p></article>"
     },
     {
+        "slug": "chrono-trigger",
         "title": "Chrono Trigger",
         "content": "<article><h2>Le voyage dans le temps parfaitement rythmé</h2><p>Chrono Trigger donne l'impression d'un jeu où rien ne dépasse. Chaque époque a sa couleur, chaque personnage son utilité, chaque séquence avance avec une efficacité remarquable. C'est un JRPG qui respecte constamment le temps du joueur.</p><p>Le système de combat visible à l'écran évite de nombreux combats aléatoires et conserve une fluidité impressionnante. Les techniques doubles et triples renforcent l'idée d'équipe et donnent envie de varier les compositions.</p><p>L'aventure reste courte pour le genre, mais dense. Les multiples fins, les conséquences temporelles et la qualité de la mise en scène donnent une vraie sensation d'aventure totale.</p><p><strong>Verdict :</strong> un classique presque intemporel, exemplaire dans son rythme et sa générosité.</p></article>"
     },
     {
+        "slug": "dragon-quest-xi-s",
         "title": "Dragon Quest XI S",
         "content": "<article><h2>Le confort moderne d'un JRPG traditionnel</h2><p>Dragon Quest XI S ne cherche pas à révolutionner le genre. Il préfère perfectionner une formule classique : un héros lumineux, une équipe attachante, des villages pittoresques et des combats au tour par tour limpides.</p><p>Cette simplicité est une force. Le jeu se parcourt comme un grand conte d'aventure, avec une progression claire et un monde agréable à revisiter. La version S ajoute du confort, du contenu et même un mode 2D qui rend hommage aux épisodes anciens.</p><p>Le système de combat reste volontairement traditionnel, mais l'équilibrage et les arbres de compétences donnent assez de matière pour expérimenter. L'ensemble est long, généreux, parfois prévisible, mais rarement ennuyeux.</p><p><strong>Verdict :</strong> un JRPG classique dans le meilleur sens du terme, idéal pour retrouver le plaisir d'une grande aventure.</p></article>"
     },
     {
+        "slug": "earthbound",
         "title": "EarthBound",
         "content": "<article><h2>Le RPG qui transforme le quotidien en étrange odyssée</h2><p>EarthBound ressemble d'abord à une parodie de RPG, puis devient progressivement quelque chose de plus singulier. Le jeu remplace les châteaux et les dragons par des banlieues, des restaurants, des policiers, des cultes absurdes et des extraterrestres.</p><p>Son humour fonctionne parce qu'il reste très humain. Les ennemis sont ridicules, les dialogues surprenants, les situations parfois franchement bizarres. Pourtant, l'aventure finit par créer une vraie tendresse pour ses personnages et son monde.</p><p>Les combats sont simples, mais quelques idées comme les points de vie qui défilent ajoutent une tension originale. Le rythme peut sembler daté, mais l'identité du jeu compense largement.</p><p><strong>Verdict :</strong> un RPG culte, drôle, étrange et plus touchant qu'il n'en a l'air.</p></article>"
     },
     {
+        "slug": "secret-of-mana",
         "title": "Secret of Mana",
         "content": "<article><h2>Une aventure action-RPG pleine de charme</h2><p>Secret of Mana garde une aura particulière grâce à son univers coloré, sa musique mémorable et son système de combat en temps réel. Le jeu donne immédiatement envie de partir à l'aventure, surtout à plusieurs.</p><p>Le mode coopératif reste l'un de ses grands atouts. Explorer, frapper, lancer des sorts et progresser avec deux autres joueurs crée une énergie rare pour un RPG de cette époque. Tout n'est pas parfaitement fluide, mais le plaisir collectif fonctionne.</p><p>Le jeu peut aussi frustrer : hitbox parfois floues, menus circulaires envahissants, pics de difficulté. Malgré cela, son ambiance de conte écologique et sa direction artistique continuent de séduire.</p><p><strong>Verdict :</strong> un classique imparfait mais lumineux, particulièrement marquant en coopération.</p></article>"
     },
     {
+        "slug": "suikoden-ii",
         "title": "Suikoden II",
         "content": "<article><h2>Une guerre racontée à hauteur humaine</h2><p>Suikoden II impressionne par sa capacité à mêler grande fresque militaire et drames personnels. Le jeu parle de loyauté, d'amitié brisée et de pouvoir avec une sobriété qui rend ses moments forts très efficaces.</p><p>Le recrutement des 108 étoiles donne une vraie ampleur au projet. Chaque personnage ne reçoit pas le même traitement, mais la base grandit peu à peu et donne l'impression de construire une résistance concrète.</p><p>Les combats sont rapides, les duels et batailles stratégiques ajoutent de la variété, et la narration avance avec un sens du rythme remarquable. Certaines mécaniques ont vieilli, mais l'émotion reste intacte.</p><p><strong>Verdict :</strong> l'un des grands JRPG de la PlayStation, porté par une histoire simple, dure et mémorable.</p></article>"
     },
     {
+        "slug": "xenogears",
         "title": "Xenogears",
         "content": "<article><h2>Un JRPG ambitieux jusqu'à la démesure</h2><p>Xenogears est un jeu fascinant parce qu'il tente énormément de choses : religion, psychanalyse, science-fiction, arts martiaux, mechas, mémoire, identité. Tout n'est pas parfaitement maîtrisé, mais l'ambition force le respect.</p><p>Les combats alternent entre affrontements à pied et batailles en Gears. Le système de combos apporte une bonne sensation d'impact, même si le rythme peut devenir irrégulier. L'exploration en 3D montre aussi quelques lourdeurs typiques de son époque.</p><p>La seconde partie est célèbre pour sa narration plus résumée, contrainte par les limites de production. Pourtant, même sous cette forme, l'histoire garde une puissance rare et une vraie singularité.</p><p><strong>Verdict :</strong> un JRPG imparfait mais monumental, à découvrir pour son ambition narrative hors norme.</p></article>"
     },
     {
+        "slug": "vagrant-story",
         "title": "Vagrant Story",
         "content": "<article><h2>Un labyrinthe sombre, technique et élégant</h2><p>Vagrant Story n'est pas un JRPG confortable. C'est un jeu dense, exigeant, presque cryptique, qui mélange exploration de donjon, action tactique et personnalisation poussée de l'équipement.</p><p>L'ambiance de Leá Monde est exceptionnelle. Ruines, caves, cathédrales et souterrains composent un décor gothique lourd, parfaitement servi par une mise en scène très cinématographique pour la PlayStation.</p><p>Le système de combat demande de comprendre les types d'ennemis, les armes, les affinités et le risque. Il peut décourager, mais il récompense les joueurs qui acceptent d'apprendre ses règles.</p><p><strong>Verdict :</strong> une œuvre singulière, austère et brillante, plus proche d'un objet d'auteur que d'un RPG grand public.</p></article>"
     },
     {
+        "slug": "phantasy-star-iv",
         "title": "Phantasy Star IV",
         "content": "<article><h2>La science-fiction RPG de la Mega Drive</h2><p>Phantasy Star IV conclut sa saga avec une aventure dynamique, colorée et très bien rythmée. Le jeu mélange fantasy, planètes désertiques, machines anciennes et menaces cosmiques avec une assurance remarquable.</p><p>Les scènes façon manga donnent beaucoup d'énergie à la narration. Elles remplacent avantageusement de longues cinématiques et permettent de donner du poids aux moments clés malgré les limites de la machine.</p><p>Les combats sont rapides, les macros facilitent les actions répétées et les techniques combinées ajoutent une touche de découverte. Le jeu vieillit très bien grâce à cette efficacité.</p><p><strong>Verdict :</strong> un excellent JRPG 16-bit, nerveux, accessible et encore trop souvent sous-estimé.</p></article>"
     },
     {
+        "slug": "shin-megami-tensei-iii-nocturne",
         "title": "Shin Megami Tensei III: Nocturne",
         "content": "<article><h2>Le JRPG post-apocalyptique sans concession</h2><p>Nocturne impose une ambiance sèche, solitaire et mystique. Tokyo devient un monde renversé, peuplé de démons et d'idéologies concurrentes. Ici, l'apocalypse n'est pas seulement un décor, c'est une question philosophique.</p><p>Le système Press Turn reste l'un des plus brillants du genre. Exploiter une faiblesse donne un avantage énorme, rater une attaque peut coûter très cher. Chaque combat demande de l'attention, y compris contre des ennemis ordinaires.</p><p>Le jeu peut être dur, parfois brutal, mais rarement injuste quand on accepte sa logique. La fusion de démons pousse à préparer son équipe plutôt qu'à foncer tête baissée.</p><p><strong>Verdict :</strong> un RPG exigeant, froid et hypnotique, indispensable pour les amateurs de combats tactiques.</p></article>"
     },
     {
+        "slug": "the-legend-of-zelda-a-link-to-the-past",
         "title": "The Legend of Zelda: A Link to the Past",
         "content": "<article><h2>L'aventure 2D à l'équilibre presque parfait</h2><p>A Link to the Past reste un modèle de construction. Le monde est compact, lisible, rempli de secrets, et chaque nouvel objet donne envie de revisiter des lieux déjà traversés.</p><p>Le passage entre monde de lumière et monde des ténèbres apporte une vraie profondeur au level design. Les deux cartes dialoguent entre elles et transforment l'exploration en puzzle permanent.</p><p>Les donjons sont courts, denses et mémorables. Le jeu ne perd pas le joueur dans des explications inutiles : il montre, il laisse tester, puis il récompense la curiosité.</p><p><strong>Verdict :</strong> un classique d'action-aventure d'une précision remarquable, toujours agréable à parcourir.</p></article>"
     },
     {
+        "slug": "super-metroid",
         "title": "Super Metroid",
         "content": "<article><h2>Le silence comme moteur d'exploration</h2><p>Super Metroid est un jeu qui fait confiance au joueur. Il explique peu, mais sa carte, ses sons et ses décors racontent constamment quelque chose. Zebes semble hostile, ancien et vivant.</p><p>La progression repose sur une boucle simple et brillante : explorer, être bloqué, obtenir une capacité, comprendre soudainement plusieurs chemins. Ce plaisir de relecture de l'espace reste au cœur du genre metroidvania.</p><p>La maniabilité peut demander un petit temps d'adaptation, mais elle autorise une grande expressivité. Les secrets, les boss et l'ambiance sonore composent une aventure très cohérente.</p><p><strong>Verdict :</strong> une leçon de level design atmosphérique, encore impressionnante par sa sobriété.</p></article>"
     },
     {
+        "slug": "castlevania-symphony-of-the-night",
         "title": "Castlevania: Symphony of the Night",
         "content": "<article><h2>Le château gothique devenu terrain de jeu</h2><p>Symphony of the Night transforme Castlevania en exploration libre, presque RPG. Alucard gagne des niveaux, équipe des armes, découvre des reliques et retourne progressivement le château comme une mécanique bien huilée.</p><p>La force du jeu tient à son ambiance. Musiques baroques, décors détaillés, animations élégantes et ennemis grotesques créent un univers immédiatement reconnaissable.</p><p>L'équilibrage devient parfois très permissif, surtout avec certains équipements, mais le plaisir de découverte l'emporte. Chaque salle semble pouvoir cacher une arme étrange, un passage secret ou un détail visuel amusant.</p><p><strong>Verdict :</strong> un pilier du metroidvania, généreux, stylé et toujours extrêmement plaisant.</p></article>"
     },
     {
+        "slug": "mega-man-x",
         "title": "Mega Man X",
         "content": "<article><h2>La formule Mega Man passée à la vitesse supérieure</h2><p>Mega Man X modernise la série sans perdre sa clarté. Le dash, les murs à escalader et les améliorations d'armure donnent au personnage une mobilité nerveuse qui change tout.</p><p>Le jeu brille par son apprentissage implicite. Le premier niveau introduit les dangers, la mise en scène et la puissance de Zero sans long discours. Ensuite, le joueur choisit son ordre de boss et découvre progressivement les faiblesses.</p><p>Les niveaux restent courts, lisibles et efficaces. La difficulté est présente, mais rarement gratuite. On sent un jeu pensé pour être rejoué, maîtrisé et optimisé.</p><p><strong>Verdict :</strong> un action-platformer 16-bit exemplaire, rapide, précis et immédiatement satisfaisant.</p></article>"
     },
     {
+        "slug": "super-mario-world",
         "title": "Super Mario World",
         "content": "<article><h2>La plateforme 2D en état de grâce</h2><p>Super Mario World donne une impression de liberté rare pour un jeu de plateforme linéaire. Sa carte pleine de sorties secrètes, de chemins alternatifs et de niveaux cachés encourage l'exploration sans jamais perdre en lisibilité.</p><p>Yoshi apporte une nouvelle texture au gameplay. Il permet d'avaler, de voler, de survivre autrement, mais ne remplace jamais la précision fondamentale du saut de Mario.</p><p>La direction artistique reste simple, mais incroyablement lisible. Chaque niveau introduit une idée, la développe, puis passe à autre chose avant de lasser. C'est une leçon de rythme.</p><p><strong>Verdict :</strong> un classique lumineux, toujours aussi plaisant à prendre en main.</p></article>"
     },
     {
+        "slug": "sonic-the-hedgehog-2",
         "title": "Sonic the Hedgehog 2",
         "content": "<article><h2>La vitesse arcade de la Mega Drive</h2><p>Sonic the Hedgehog 2 affine la formule du premier épisode avec plus de rythme, plus de variété et un meilleur équilibre entre vitesse et plateforme. Le jeu donne immédiatement envie de foncer, mais récompense aussi la connaissance des niveaux.</p><p>Les zones les plus réussies alternent accélérations spectaculaires et passages plus techniques. Chemical Plant, Casino Night ou Hill Top montrent une vraie personnalité visuelle et sonore.</p><p>Tails accompagne l'aventure sans toujours être très utile, mais il renforce l'identité du duo. Quelques niveaux de fin sont plus rugueux, mais l'ensemble reste très efficace.</p><p><strong>Verdict :</strong> un épisode emblématique, nerveux et coloré, parfait représentant de l'énergie Mega Drive.</p></article>"
     },
     {
+        "slug": "streets-of-rage-2",
         "title": "Streets of Rage 2",
         "content": "<article><h2>Le beat'em up urbain qui frappe juste</h2><p>Streets of Rage 2 reste une référence parce qu'il comprend parfaitement le plaisir du genre : avancer, frapper, gérer l'espace et profiter d'une bande-son exceptionnelle.</p><p>Chaque personnage a son poids, sa portée et son rythme. Axel est équilibré, Blaze plus agile, Max plus lourd, Skate plus rapide. Cette variété donne envie de relancer l'aventure avec un style différent.</p><p>Les décors urbains, les ennemis identifiables et les musiques électroniques créent une ambiance forte. Le jeu est court, mais suffisamment dense pour rester rejouable.</p><p><strong>Verdict :</strong> un beat'em up culte, simple à comprendre et toujours jouissif en coopération.</p></article>"
     },
     {
+        "slug": "street-fighter-ii-turbo",
         "title": "Street Fighter II Turbo",
         "content": "<article><h2>Le versus fighting devenu langage commun</h2><p>Street Fighter II Turbo reste essentiel parce qu'il a imposé une grammaire encore utilisée aujourd'hui : quarts de cercle, distances, anti-airs, projectiles, mind games et lecture de l'adversaire.</p><p>La version Turbo accélère les échanges et rend les combats plus nerveux. Chaque personnage possède une silhouette, un rythme et une stratégie immédiatement reconnaissables.</p><p>Le jeu peut sembler rigide face aux productions modernes, mais sa lisibilité reste remarquable. On comprend très vite pourquoi une erreur coûte cher et pourquoi une bonne décision fait basculer un round.</p><p><strong>Verdict :</strong> un pilier du jeu de combat, sec, lisible et historiquement incontournable.</p></article>"
     },
     {
+        "slug": "contra-iii-the-alien-wars",
         "title": "Contra III: The Alien Wars",
         "content": "<article><h2>L'action arcade sous adrénaline</h2><p>Contra III est un concentré de spectacle 16-bit. Explosions, aliens, motos, missiles, robots géants : le jeu enchaîne les situations avec une énergie presque excessive.</p><p>La difficulté est sévère, mais elle fait partie de l'identité arcade. Il faut apprendre les patterns, anticiper les apparitions et rester mobile en permanence. En coopération, le chaos devient encore plus mémorable.</p><p>Les niveaux en vue de dessus cassent un peu le rythme, mais ils participent aussi à la variété générale. L'ensemble reste court, intense et très rejouable.</p><p><strong>Verdict :</strong> un run and gun brutal, spectaculaire et taillé pour les amateurs de challenge.</p></article>"
     },
     {
+        "slug": "donkey-kong-country-2-diddy-s-kong-quest",
         "title": "Donkey Kong Country 2: Diddy's Kong Quest",
         "content": "<article><h2>La plateforme tropicale devenue aventure pirate</h2><p>Donkey Kong Country 2 améliore presque tout ce que proposait le premier épisode. Plus varié, plus exigeant, plus atmosphérique, il donne à chaque monde une identité forte.</p><p>Le duo Diddy et Dixie fonctionne parfaitement. La chevelure-planante de Dixie change la gestion des sauts et rend l'exploration plus souple. Les niveaux regorgent de bonus, de pièces cachées et de défis optionnels.</p><p>La bande-son donne une profondeur inattendue à l'aventure, capable de passer de l'énergie pirate à des ambiances aquatiques presque mélancoliques. La difficulté monte franchement, mais rarement sans raison.</p><p><strong>Verdict :</strong> l'un des meilleurs jeux de plateforme de la Super Nintendo, riche, précis et mémorable.</p></article>"
     },
     {
+        "slug": "secret-of-evermore",
         "title": "Secret of Evermore",
         "content": "<article><h2>L'action-RPG américain au parfum étrange</h2><p>Secret of Evermore ressemble à un cousin bizarre de Secret of Mana. Il partage une partie de son ADN action-RPG, mais propose une ambiance plus occidentale, plus ironique et plus expérimentale.</p><p>Le voyage à travers des mondes inspirés de différentes époques donne au jeu une vraie personnalité. Le chien compagnon, qui change de forme selon les régions, ajoute une touche attachante et originale.</p><p>Le système d'alchimie remplace la magie classique et pousse à collecter des ingrédients. C'est intéressant, mais parfois un peu laborieux. Le jeu a des aspérités, mais aussi un charme très particulier.</p><p><strong>Verdict :</strong> une curiosité 16-bit imparfaite, mais pleine d'identité et d'idées singulières.</p></article>"
     },
     {
+        "slug": "illusion-of-time",
         "title": "Illusion of Time",
         "content": "<article><h2>Un action-RPG d'aventure et de mystère</h2><p>Illusion of Time mélange voyage initiatique, lieux inspirés du monde réel et ambiance étrange. Le jeu paraît accessible au premier abord, mais il installe progressivement une tonalité plus mélancolique.</p><p>La progression est plus linéaire que dans d'autres action-RPG, ce qui permet au récit d'avancer sans dispersion. Les transformations du héros apportent de nouvelles capacités et renouvellent l'exploration.</p><p>Les combats restent simples, parfois répétitifs, mais les donjons possèdent une atmosphère forte. Le jeu marque surtout par ses situations inattendues et son sentiment de voyage.</p><p><strong>Verdict :</strong> une aventure Super Nintendo attachante, moins connue que les grands classiques mais vraiment singulière.</p></article>"
     },
     {
+        "slug": "terranigma",
         "title": "Terranigma",
         "content": "<article><h2>Le grand voyage oublié de la Super Nintendo</h2><p>Terranigma propose une aventure ambitieuse autour de la renaissance du monde. Le joueur ne se contente pas de sauver des villages : il participe progressivement au retour des continents, de la vie et des civilisations.</p><p>Le système de combat en temps réel est dynamique pour l'époque, avec différentes attaques selon le mouvement. Il donne à l'exploration une énergie plus physique que beaucoup de RPG 16-bit.</p><p>Le jeu brille surtout par son sentiment d'ampleur et sa mélancolie. Voir le monde se reconstruire, puis comprendre ce que cela implique, donne une dimension émotionnelle très forte à l'aventure.</p><p><strong>Verdict :</strong> un action-RPG majeur, poétique et injustement moins cité que ses contemporains.</p></article>"
     },
     {
+        "slug": "panzer-dragoon-saga",
         "title": "Panzer Dragoon Saga",
         "content": "<article><h2>Le RPG rare, aérien et hypnotique de la Saturn</h2><p>Panzer Dragoon Saga transforme l'univers de la série en RPG atmosphérique. Le jeu conserve le sentiment de vol, les créatures étranges et les paysages désertiques, mais les place dans une aventure plus posée et narrative.</p><p>Le système de combat repose sur le positionnement autour des ennemis. Chercher les angles sûrs, déclencher les bonnes attaques et transformer son dragon donne une identité très différente des RPG classiques.</p><p>Sa rareté a renforcé sa légende, mais le jeu ne tient pas seulement par son statut de pièce de collection. Il possède une ambiance unique, entre ruine technologique et fantasy organique.</p><p><strong>Verdict :</strong> une expérience courte, rare et marquante, qui montre ce que la Saturn pouvait offrir de plus singulier.</p></article>"
     },
     {
+        "slug": "skies-of-arcadia",
         "title": "Skies of Arcadia",
         "content": "<article><h2>L'appel de l'aventure dans le ciel</h2><p>Skies of Arcadia est un RPG qui respire l'optimisme. Pirates de l'air, îles flottantes, exploration céleste et batailles de vaisseaux composent une aventure généreuse et lumineuse.</p><p>Le jeu fonctionne grâce à son sens de la découverte. Naviguer dans les cieux, trouver des lieux cachés et recruter un équipage donne l'impression de construire sa propre légende.</p><p>Les combats aléatoires peuvent devenir trop fréquents, surtout dans certaines versions, mais les affrontements de vaisseaux apportent une vraie personnalité. Le casting reste simple, mais très attachant.</p><p><strong>Verdict :</strong> un RPG d'aventure pur, chaleureux et idéal pour ceux qui aiment les grands voyages héroïques.</p></article>"
     }

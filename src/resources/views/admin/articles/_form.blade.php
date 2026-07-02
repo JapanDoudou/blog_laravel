@@ -35,7 +35,7 @@
                     value="{{ $status->value }}"
                     @selected(old('status', $article->status?->value ?? ArticleStatus::Draft->value) === $status->value)
                 >
-                    {{ $status->label() }}
+                    {{ __('articles.statuses.'.$status->value) }}
                 </option>
             @endforeach
         </select>

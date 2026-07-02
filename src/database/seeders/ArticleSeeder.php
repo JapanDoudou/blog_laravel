@@ -25,11 +25,12 @@ class ArticleSeeder extends Seeder
 
         foreach ($entries as $entry) {
             $article = Article::query()
-                ->where('title', $entry['title'])
+                ->where('slug', $entry['slug'])
                 ->first();
 
             $this->upsertArticle->handle(
                 attributes: [
+                    'slug' => $entry['slug'],
                     'title' => $entry['title'],
                     'content' => $entry['content'],
                     'status' => ArticleStatus::Published,
@@ -41,7 +42,7 @@ class ArticleSeeder extends Seeder
     }
 
     /**
-     * @return array<int, array{title: string, content: string}>
+     * @return array<int, array{slug: string, title: string, content: string}>
      */
     private function loadEntries(): array
     {
@@ -61,22 +62,38 @@ class ArticleSeeder extends Seeder
             throw new RuntimeException('The article seed file must contain a top-level JSON array.');
         }
 
+        $slugs = [];
+
         foreach ($entries as $index => $entry) {
             if (
                 ! is_array($entry)
+                || ! is_string($entry['slug'] ?? null)
+                || trim($entry['slug']) === ''
                 || ! is_string($entry['title'] ?? null)
                 || trim($entry['title']) === ''
                 || ! is_string($entry['content'] ?? null)
                 || trim($entry['content']) === ''
             ) {
                 throw new RuntimeException(sprintf(
-                    'Invalid article seed entry at index %d. Expected {"title": "...", "content": "..."} with non-empty strings.',
+                    'Invalid article seed entry at index %d. Expected {"slug": "...", "title": "...", "content": "..."} with non-empty strings.',
                     $index
                 ));
             }
+
+            $slug = trim($entry['slug']);
+
+            if (in_array($slug, $slugs, true)) {
+                throw new RuntimeException(sprintf(
+                    'Duplicate article slug [%s] in seed file at index %d.',
+                    $slug,
+                    $index
+                ));
+            }
+
+            $slugs[] = $slug;
         }
 
-        /** @var array<int, array{title: string, content: string}> $entries */
+        /** @var array<int, array{slug: string, title: string, content: string}> $entries */
         return $entries;
     }
 

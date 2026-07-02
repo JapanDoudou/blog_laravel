@@ -171,6 +171,25 @@ class ArticleManagementTest extends TestCase
         $this->assertStringContainsString('<p>Texte</p>', $article->content);
     }
 
+    public function test_article_content_preserves_utf8_characters(): void
+    {
+        $admin = User::factory()->create(['is_admin' => true]);
+
+        $this->actingAs($admin)->post(route('admin.articles.store'), [
+            'title' => 'Article accentué',
+            'content' => '<p>Été, déjà vu, façade, cœur.</p>',
+            'status' => ArticleStatus::Published->value,
+        ]);
+
+        $article = Article::query()->firstOrFail();
+
+        $this->assertStringContainsString('Été, déjà vu, façade, cœur.', $article->content);
+
+        $this->get(route('articles.show', $article->slug))
+            ->assertOk()
+            ->assertSee('Été, déjà vu, façade, cœur.', false);
+    }
+
     public function test_admin_sees_article_creation_link_in_header(): void
     {
         $admin = User::factory()->create(['is_admin' => true]);

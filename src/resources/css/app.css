@@ -63,3 +63,19 @@ body {
     border-left: 4px solid #ced4da;
     color: #495057;
 }
+
+.article-list .card {
+    border: 1px solid #dee2e6;
+}
+
+.article-list .card-text {
+    line-height: 1.7;
+}
+
+.pagination {
+    --bs-pagination-color: #212529;
+    --bs-pagination-hover-color: #212529;
+    --bs-pagination-focus-color: #212529;
+    --bs-pagination-active-bg: #212529;
+    --bs-pagination-active-border-color: #212529;
+}
