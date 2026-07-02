@@ -13,6 +13,10 @@
 
                 <div class="d-flex align-items-center gap-3">
                     @auth
+                        @if (auth()->user()->is_admin)
+                            <a href="{{ route('admin.articles.create') }}" class="btn btn-warning btn-sm">Nouvel article</a>
+                        @endif
+
                         <div class="d-flex align-items-center gap-2 text-white">
                             <span class="user-badge" title="{{ auth()->user()->name }}" aria-label="Utilisateur connecté">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true">
